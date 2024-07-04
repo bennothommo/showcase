@@ -1,0 +1,6 @@
+name: Self Manager
+description: Take control of your NDIS plan, with full oversight of your spending, budgets and invoices sent by your NDIS support providers.
+links:
+  android: https://play.google.com/store/apps/details?id=au.com.selfmanager.mobileapp
+  ios: https://apps.apple.com/app/self-manager/id6479340644
+flavor: vue
